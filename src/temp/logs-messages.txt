@@ -1,0 +1,75 @@
+dd9deb29 fix(safe-area-inset): respect variable for iphones
+991040b5 chore(en): translation changes
+63a59fc7 Merge branch 'develop' of https://github.com/springtreesolutions/eva-sales-app into develop
+4fb8d2d4 Merge pull request #257 from springtreesolutions/feature/OPTR-5580
+94ff6db9 Merge branch 'develop' of https://github.com/springtreesolutions/eva-sales-app into develop
+5472cb4e fix(cd): getter execution
+dc136f1d Merge branch 'develop' into feature/OPTR-5580
+e7d214d0 Merge pull request #261 from springtreesolutions/feature/tslint-testing
+0c6b3592 style(incoming-shipment-edit): remove unused import
+8956a43b Merge pull request #259 from springtreesolutions/feature/OPTR-5629
+c4647272 feat(incoming-shipment-edit): add unused imports
+6703f7f1 chore(actions): add tslint for PR's
+e9f12358 Merge pull request #258 from springtreesolutions/feature/OPTR-5542
+f224c3ae fix(incoming-shipment-edit): show all unrelated items
+0c7a0b56 feat(checkout): style improvements
+d137c060 feat(estimated-delivery-time): show based on setting
+eaecd229 feat(incoming-shipment-edit): manual mode switching
+92afb2ef feat(ion-footer): standardize vertical margin between buttons
+911bca6f Merge pull request #256 from springtreesolutions/feature/OPTR-5581
+09b80eac Merge branch 'develop' into feature/OPTR-5581
+d34ca20b style(types): linting
+d1e524fa feat(incoming-shipment-edit): consistent feedback
+83a8ed8f fix(shipping): shipping method selected implementation
+ae7cbad4 feat(incoming-shipment): suffix count with /0
+1476e238 feat(basket): render product variations
+cc7c09dc refactor(stock-reservation-line): product variations
+9c9f1f5a feat(product-variations): add component
+b7472722 feat(checkout): render border correctly
+7a7ff7b4 fix(chekout): type error
+26e351a6 Merge pull request #254 from springtreesolutions/feature/OPTR-5545
+199e4ebe Merge tag 'product-add-stuck-fix' into develop
+db719c28 Merge branch 'hotfix/product-add-stuck-fix'
+51d64157 fix(layout): ensure restricted card takes full width
+c177e632 0.48.5
+b59ed393 chore(en): add translation
+8bd5d7d0 feat(return-order-requirement): add modal
+2f7fbfef Merge branch 'develop' into feature/OPTR-5545
+6ad1ced1 Merge tag '0.48' into develop
+0cefce28 Merge branch 'release/0.48'
+214e6ad6 Merge pull request #255 from springtreesolutions/bugfix/OPTR-5585
+b1986f5b chore(en): add add product return orders error
+aa7d0ac8 feat(product-add): correct condition
+f5203806 fix(product-details): remove unneeded await
+b69f3098 style(product-search-result): remove unused import
+61ad06c2 0.48.4
+edc839d8 feat(order-return): create new orders
+f7d244c0 feat(product-add): prevent incase of return orders requirement
+c8a56d23 0.48.3
+9e15c394 fix(partial-shipment-tile): selection border
+552410cd 0.48.2
+6b122b0b Merge branch 'release/0.48' of https://github.com/springtreesolutions/eva-sales-app into release/0.48
+dff282b0 feat(incoming-shipment): suffix qty with 'products'
+5b6a98af fix(incoming-shipment-edit): always get unit of measures
+e5e1e246 chore(en): translation change
+908fb2fa Merge branch 'develop' into feature/OPTR-5545
+31d03211 feat(checkout): change pay later logic
+bb662036 chore(package-lock): generate new file
+818eecc6 0.48.1
+d738817c fix(signature-tile): prevent emission blocking
+bbeb67cc Merge pull request #252 from springtreesolutions/feature/OPTR-4802
+9772da29 Merge branch 'feature/OPTR-4802' of https://github.com/springtreesolutions/eva-sales-app into feature/OPTR-4802
+b07a4d10 feat(delivery-details): textual change
+5252bee0 Merge branch 'develop' into feature/OPTR-4802
+a1882d32 fix(contentful): function call
+214b0d2d feat(product-bundle-details): hide isDeleted lines
+470a0cad refactor(internationalisation): errors into warnings
+37500cb6 fix(customer-verification): remove dead code
+6ab6506c Merge branch 'feature/OPTR-4802' of https://github.com/springtreesolutions/eva-sales-app into feature/OPTR-4802
+def666a0 Merge branch 'develop' into feature/OPTR-4802
+764463ce Merge branch 'develop' of https://github.com/springtreesolutions/eva-sales-app into develop
+97951513 Merge branch 'develop' into feature/OPTR-4802
+fc7c54b6 chore(package): update eva-sdk-redux
+e1d2c535 chore(en): add translations
+93f4f346 feat(checkout): add delivery details
+e583fdf7 feat(delivery-details): add component

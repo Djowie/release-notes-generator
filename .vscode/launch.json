@@ -2,11 +2,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "node2",
-            "request": "attach",
-            "name": "Node: Nodemon-attach",
+            "type": "node",
             "protocol": "inspector",
-            "restart": true
-        }
+            "request": "launch",
+            "name": "nodemon",
+            "runtimeExecutable": "nodemon",
+            "program": "${workspaceFolder}/bin/index.js",
+            "restart": true,
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
     ]
 }
